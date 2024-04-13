@@ -1,4 +1,4 @@
-# [Machine Learning: Aprobabilistic Perspective](https://probml.github.io/pml-book/book0.html)
+# [Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/book0.html)
 
 Figures
 
