@@ -10,7 +10,7 @@ Vectors, Matrices, and Least Squares 1st Edition
 | [Ch.03 Norm and distance](VMLS%20Julia%2C%20Ch.03%20Norm%20and%20distance.ipynb) | :x: |
 | [Ch.04 Clustering](VMLS%20Julia%2C%20Ch.04%20Clustering.ipynb) | :x: |
 | [Ch.05 Linear independence](VMLS%20Julia%2C%20Ch.05%20Linear%20independence.ipynb) | :x: |
-| [Ch.06 Matrices](VMLS%20Julia%2C%20Ch.06 Matrices.ipynb) | :x: |
+| [Ch.06 Matrices](VMLS%20Julia%2C%20Ch.06%20Matrices.ipynb) | :x: |
 | [Ch.07 Matrix examples](VMLS%20Julia%2C%20Ch.07%20Matrix%20examples.ipynb) | :x: |
 | [Ch.08 Linear equations](VMLS%20Julia%2C%20Ch.08%20Linear%20equations.ipynb) | :x: |
 | [Ch.09 Linear dynamical systems](VMLS%20Julia%2C%20Ch.09%20Linear%20dynamical%20systems.ipynb) | :x: |
