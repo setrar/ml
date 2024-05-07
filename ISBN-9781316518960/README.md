@@ -6,7 +6,7 @@ Vectors, Matrices, and Least Squares 1st Edition
 | | |
 |-|-|
 | [1](VMLS\ Julia\ Ch.01\ Vectors.ipynb) | :x: |
-| [VMLS Julia, Ch.02 Linear Functions.ipynb](VMLS Julia, Ch.02 Linear Functions.ipynb) | :x: |
+| [VMLS Julia, Ch.02 Linear Functions.ipynb](VMLS Julia%2C Ch.02 Linear Functions.ipynb) | :x: |
 | [VMLS Julia, Ch.03 Norm and distance.ipynb](VMLS Julia, Ch.03 Norm and distance.ipynb) | :x: |
 | [VMLS Julia, Ch.04 Clustering.ipynb](VMLS Julia, Ch.04 Clustering.ipynb) | :x: |
 | [VMLS Julia, Ch.05 Linear independence.ipynb](VMLS Julia, Ch.05 Linear independence.ipynb) | :x: |
