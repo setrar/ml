@@ -4,14 +4,14 @@ Vectors, Matrices, and Least Squares 1st Edition
 
 
 
-| | |
+| Notebooks | Compiling? |
 |-|-|
 | [Ch.01 Vectors](VMLS%20Julia%2C%20Ch.01%20Vectors.ipynb) | :heavy_check_mark: |
 | [Ch.02 Linear Functions](VMLS%20Julia%2C%20Ch.02%20Linear%20Functions.ipynb) | :heavy_check_mark: |
 | [Ch.03 Norm and distance](VMLS%20Julia%2C%20Ch.03%20Norm%20and%20distance.ipynb) | :heavy_check_mark: |
 | [Ch.04 Clustering](VMLS%20Julia%2C%20Ch.04%20Clustering.ipynb) | :heavy_check_mark: |
 | [Ch.05 Linear independence](VMLS%20Julia%2C%20Ch.05%20Linear%20independence.ipynb) | :heavy_check_mark: |
-| [Ch.06 Matrices](VMLS%20Julia%2C%20Ch.06%20Matrices.ipynb) | :heavy_check_mark: |
+| [Ch.06 Matrices](VMLS%20Julia%2C%20Ch.06%20Matrices.ipynb) | :x: |
 | [Ch.07 Matrix examples](VMLS%20Julia%2C%20Ch.07%20Matrix%20examples.ipynb) | :heavy_check_mark: |
 | [Ch.08 Linear equations](VMLS%20Julia%2C%20Ch.08%20Linear%20equations.ipynb) | :heavy_check_mark: |
 | [Ch.09 Linear dynamical systems](VMLS%20Julia%2C%20Ch.09%20Linear%20dynamical%20systems.ipynb) | :heavy_check_mark: |
@@ -26,16 +26,23 @@ Vectors, Matrices, and Least Squares 1st Edition
 | [Ch.18 Nonlinear least squares](VMLS%20Julia%2C%20Ch.18%20Nonlinear%20least%20squares.ipynb) | :heavy_check_mark: |
 | [Ch.19 Constrained nonlinear least squares](VMLS%20Julia%2C%20Ch.19%20Constrained%20nonlinear%20least%20squares.ipynb) | :heavy_check_mark: |
 
+## VMLS Package Companion
+
+- [ ] In Julia REPL, got to package mode by typing `]`
+
 ```Julia
-add https://github.com/VMLS-book/VMLS.jl.git
+(@v1.10) pkg> add https://github.com/VMLS-book/VMLS.jl.git
 ```
 
 ```Julia
-add VMLS#master
+(@v1.10) pkg> add VMLS#master
 ```
 
+## yt-dlp
 
-
+```
+brew install yt-dlp
+```
 
 # References
 
