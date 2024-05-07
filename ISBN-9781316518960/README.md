@@ -26,15 +26,17 @@ Vectors, Matrices, and Least Squares 1st Edition
 | [Ch.18 Nonlinear least squares](VMLS%20Julia%2C%20Ch.18%20Nonlinear%20least%20squares.ipynb) | :heavy_check_mark: |
 | [Ch.19 Constrained nonlinear least squares](VMLS%20Julia%2C%20Ch.19%20Constrained%20nonlinear%20least%20squares.ipynb) | :heavy_check_mark: |
 
+## VMLS Package Companion
+
+- [ ] In Julia REPL, got to package mode by typing `]`
+
 ```Julia
-add https://github.com/VMLS-book/VMLS.jl.git
+(@v1.10) pkg> add https://github.com/VMLS-book/VMLS.jl.git
 ```
 
 ```Julia
-add VMLS#master
+(@v1.10) pkg> add VMLS#master
 ```
-
-
 
 
 # References
