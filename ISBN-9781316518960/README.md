@@ -38,6 +38,11 @@ Vectors, Matrices, and Least Squares 1st Edition
 (@v1.10) pkg> add VMLS#master
 ```
 
+## yt-dlp
+
+```
+brew install yt-dlp
+```
 
 # References
 
