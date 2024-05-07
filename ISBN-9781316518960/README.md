@@ -3,25 +3,9 @@
 Vectors, Matrices, and Least Squares 1st Edition
 
 
-```Julia
-add https://github.com/VMLS-book/VMLS.jl.git
-```
-
-```Julia
-add VMLS#master
-```
-
-
-# References
-
-- [ ] [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
-- [ ] [Youtube Playlist](https://youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&feature=shared)
-- [ ] [Julia and Python language notebooks (written by V. Bartle)](https://github.com/vbartle/VMLS-Companions)
-- [ ] [Julia adding package from github](https://stackoverflow.com/questions/65914480/julia-adding-package-from-github)
-
 | | |
 |-|-|
-| [VMLS Julia, Ch.01 Vectors.ipynb](VMLS Julia, Ch.01 Vectors.ipynb) | :x: |
+| [VMLS Julia\, Ch.01 Vectors.ipynb](VMLS Julia, Ch.01 Vectors.ipynb) | :x: |
 | [VMLS Julia, Ch.02 Linear Functions.ipynb](VMLS Julia, Ch.02 Linear Functions.ipynb) | :x: |
 | [VMLS Julia, Ch.03 Norm and distance.ipynb](VMLS Julia, Ch.03 Norm and distance.ipynb) | :x: |
 | [VMLS Julia, Ch.04 Clustering.ipynb](VMLS Julia, Ch.04 Clustering.ipynb) | :x: |
@@ -40,3 +24,23 @@ add VMLS#master
 | [VMLS Julia, Ch.17 Constrained least squares applications.ipynb](VMLS Julia, Ch.17 Constrained least squares applications.ipynb) | :x: |
 | [VMLS Julia, Ch.18 Nonlinear least squares.ipynb](VMLS Julia, Ch.18 Nonlinear least squares.ipynb) | :x: |
 | [VMLS Julia, Ch.19 Constrained nonlinear least squares.ipynb](VMLS Julia, Ch.19 Constrained nonlinear least squares.ipynb) | :x: |
+
+```Julia
+add https://github.com/VMLS-book/VMLS.jl.git
+```
+
+```Julia
+add VMLS#master
+```
+
+
+
+
+# References
+
+- [ ] [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+- [ ] [Youtube Playlist](https://youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9&feature=shared)
+- [ ] [Julia and Python language notebooks (written by V. Bartle)](https://github.com/vbartle/VMLS-Companions)
+- [ ] [Julia adding package from github](https://stackoverflow.com/questions/65914480/julia-adding-package-from-github)
+
+
