@@ -3,9 +3,10 @@
 Vectors, Matrices, and Least Squares 1st Edition
 
 
+
 | | |
 |-|-|
-| [Ch.01 Vectors](VMLS%20Julia%2C%20Ch.01%20Vectors.ipynb) | :x: |
+| [Ch.01 Vectors](VMLS%20Julia%2C%20Ch.01%20Vectors.ipynb) | :heavy_check_mark: |
 | [Ch.02 Linear Functions](VMLS%20Julia%2C%20Ch.02%20Linear%20Functions.ipynb) | :x: |
 | [Ch.03 Norm and distance](VMLS%20Julia%2C%20Ch.03%20Norm%20and%20distance.ipynb) | :x: |
 | [Ch.04 Clustering](VMLS%20Julia%2C%20Ch.04%20Clustering.ipynb) | :x: |
